@@ -1,4 +1,8 @@
-<h1 style=style="text-align: center;"> Hello everyone, I'm Purplik </h1>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/60230933/181376221-2f299dd6-d19f-470a-83b1-6954dfd45112.png">
+</p>
+
+<h1 style=style="align: center;"> Hello everyone, I'm Purplik </h1>
 
 Somehow you found my GitHub profile. Congratulations.
 

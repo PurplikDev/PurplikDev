@@ -26,7 +26,7 @@ _What else is there to say? Hmmm_
 
 I have a Twitter account where I post Minecraft art when I'm bored.
 
-[@PurplikLP](https://www.curseforge.com/minecraft/mc-mods/hats-cosmetics "CurseForge page")
+[@PurplikLP](https://twitter.com/PurplikLP "Twitter Profile")
 
 And yeah... that's about it.
 Enjoy your stay here, and don't make a mess when you dig though my repositories.

@@ -6,13 +6,4 @@
 
 I like playing and also making games. I really enjoy Rogue-likes and going fast. My current project is a rogulike game inspired by Azanor's [Thaumcraft](https://www.curseforge.com/minecraft/mc-mods/thaumcraft "CurseForge page").
 
-## Something more about me
-
-I like music.
-My favorite album is Nonagon Infinity.
-
-My favorite color is Purple.
-Which is also origin of my nickname.
-
-And yeah... that's about it.
-Enjoy your stay here, and don't make a mess when you dig though my repositories.
+## [More about me](https://purplikdev.github.io "Portfolio")

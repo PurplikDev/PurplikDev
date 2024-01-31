@@ -4,4 +4,9 @@
 
 <h1 style=style="align: center;"> I'm Purplik </h1>
 
-## [My portfolio](https://purplikdev.github.io "Portfolio")
+## Current Projects
+- Project Soul
+- Explorer's Gear
+- Unnamed Magic Mod
+
+### [My portfolio](https://purplikdev.github.io "Portfolio")

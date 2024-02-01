@@ -9,4 +9,6 @@
 - Explorer's Gear
 - Unnamed Magic Mod
 
+Also I'm learning Godot right now
+
 ### [My portfolio](https://purplikdev.github.io "Portfolio")

@@ -6,9 +6,13 @@
 
 ## Current Projects
 - Project Soul
+
+## Old Projects
 - Explorer's Gear
 - Unnamed Magic Mod
+- Hats & Cosmetics
+- Darkest Stress
 
-Also I'm learning Godot right now
+Also I'm learning Godot and Unreal Engine right now
 
 ### [My portfolio](https://purplikdev.github.io "Portfolio")

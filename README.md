@@ -13,6 +13,6 @@
 - Hats & Cosmetics
 - Darkest Stress
 
-Also I'm learning Godot and Unreal Engine right now
+Also I'm learning Godot right now
 
 ### [My portfolio](https://purplikdev.github.io "Portfolio")

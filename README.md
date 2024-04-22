@@ -5,11 +5,10 @@
 <h1 style=style="align: center;"> I'm Purplik </h1>
 
 ## Current Projects
-- Project Soul
+- Krtk - ABOSAGames debut game
 
 ## Old Projects
 - Explorer's Gear
-- Unnamed Magic Mod
 - Hats & Cosmetics
 - Darkest Stress
 

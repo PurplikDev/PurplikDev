@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/60230933/183299351-2afd3051-3085-4198-be2a-40afe50b83bb.png">
+  ![banner](https://github.com/user-attachments/assets/f0bcb575-7488-43ea-b12f-6b8cf85fd4de)
 </p>
 
 <h1 style=style="align: center;"> I'm Purplik </h1>

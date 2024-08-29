@@ -18,8 +18,8 @@ i've recently graduated from a an art school where i took computer game and mult
 
 ### interests
 - gaming - i mostly like roguelikes like [`noita`](https://store.steampowered.com/app/881100/Noita/), but i'm also a big enjoyer of [`voices of the void`](https://mrdrnose.itch.io/votv)
-- modding - trying to find flaws in games i enjoy is a bad habit of mine, but thanks to modding i can turn this bad habit into a creative hobby that allows me to "fix" these flaws and improve on them
-- music - i'm a big music enjoyer, i really like bands like `molchat doma`, `king gizzard & the lizard wizard`, `radiohead` and many other, i also enjoy soundtracks from video games and shows `disco elysium` and `murder drones`
+- modding - trying to find flaws in games i enjoy is a bad habit of mine, but thanks to modding i can turn this bad habit into a creative hobby that allows me to "fix" these "flaws" and improve on them
+- music - i'm a big music enjoyer, i really like bands like `molchat doma`, `king gizzard & the lizard wizard`, `radiohead` and many others, i also enjoy soundtracks from video games and shows like `disco elysium` and `murder drones`
 - content creation - it's just a small hobby i picked up during covid, i really like sharing my experiences with other people
 - magic & alchemy - i like magic. stuff like noita's spell casting or thaumcraft's vis and essentia systems (i also like eldritch related themes and cosmic horror)
 

@@ -60,9 +60,9 @@ i've recently graduated from a an art school where i took computer game and mult
 
 
 ### practise projects
-- dredge-like - after playing [`dredge`](https://store.steampowered.com/app/1562430/DREDGE/) i really wanted to recreate it's water and ship
-- rise of todmoldren recreation - recreation of my first ever game in godot
-- tactical fps controller - attempt at trying to create a template for tactical fps games in godot in case i needed it sometime in the future
+- [`dredge-like`](https://github.com/PurplikDev/dredge-like) - after playing [`dredge`](https://store.steampowered.com/app/1562430/DREDGE/) i really wanted to recreate it's water and ship
+- [`rise of todmoldren recreation`](https://github.com/PurplikDev/rise-of-todmoldren-recreation) - recreation of my first ever game in godot
+- [`tactical fps controller`](https://github.com/PurplikDev/tactical-fps-controller) - attempt at trying to create a template for tactical fps games in godot in case i needed it sometime in the future
 
 
 

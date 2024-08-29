@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PurplikDev/PurplikDev/PurplikDev-rework/banner.png">
+  <img src="https://raw.githubusercontent.com/PurplikDev/PurplikDev/main/banner.png">
 </p>
 
 ### sup, i'm purplik
@@ -26,7 +26,7 @@ i've recently graduated from a an art school where i took computer game and mult
 
 
 ### my current projects
-- console game - [early in development]
+- [`console game`](https://github.com/PurplikDev/console-game) - [early in development]
   - inspired by `voices of the void`
   - the game takes place entirely in a console made in godot
   - everything is done via the console, this includes the gameplay, settings, managing save files and other weird things i come up with
@@ -34,25 +34,25 @@ i've recently graduated from a an art school where i took computer game and mult
   - `hotline miami` inspired party game
   - small-ish project with couple of friends
   - you play as moles btw, can't reveal much more
-- magic roguelike - [in development]
+- [`magic roguelike`](https://github.com/PurplikDev/magic-roguelike) - [in development]
   - small attempt at `bringing thaumcraft 4`'s dungeon mechanic into a standalone game with an expanded spell system
 
 
 
 ### my other projects
-- hats & cosmetics [![Curse Forge](http://cf.way2muchnoise.eu/594678.svg)](https://www.curseforge.com/minecraft/mc-mods/hats-cosmetics)
+- [`hats & cosmetics`](https://github.com/PurplikDev/Hats-and-Cosmetics) [![Curse Forge](http://cf.way2muchnoise.eu/594678.svg)](https://www.curseforge.com/minecraft/mc-mods/hats-cosmetics)
   - mod that adds hats & cosmetics into minecraft
   - the mod is currently on hold due to transition from the forge api to neoforge api
-- darkest stress [![Curse Forge](http://cf.way2muchnoise.eu/674856.svg)](https://www.curseforge.com/minecraft/mc-mods/darkest-stress)
-  - this mod adds the stress system from darkest dungeon into minecraft
-  - it was created for a roguelike modpack by a development team which was unfortunately never released
-- explorer's gear [![Curse Forge](http://cf.way2muchnoise.eu/967918.svg)](https://www.curseforge.com/minecraft/mc-mods/explorers-gear)
+- [`explorer's gear`](https://github.com/PurplikDev/explorers-gear) [![Curse Forge](http://cf.way2muchnoise.eu/967918.svg)](https://www.curseforge.com/minecraft/mc-mods/explorers-gear)
   - this mod adds few useful items into minecraft based on the bundle item
   - similarly to hats & cosmetics the mod is on hold due to api transition and also changes to the bundle item in the base game
-- risk of math
+- [`darkest stress`](https://github.com/PurplikDev/darkest-stress) [![Curse Forge](http://cf.way2muchnoise.eu/674856.svg)](https://www.curseforge.com/minecraft/mc-mods/darkest-stress)
+  - this mod adds the stress system from darkest dungeon into minecraft
+  - it was created for a roguelike modpack by a development team which was unfortunately never released
+- [`risk of math`](https://github.com/PurplikDev/Risk-Of-Math)
   - web calculator made in javascript for [`risk of rain 2`](https://store.steampowered.com/app/632360/Risk_of_Rain_2/) items
   - it doesn't have all the items (i was lazy, and now after release of seekers of the storm i lost all motivation and hope for this franchise (thank you gearbox!!! >:c))
-- project soul
+- [`project soul`](https://github.com/PurplikDev/Project-Soul)
   - my graduation project
   - made in unity
   - stopped working on it because i graduated, transitioned to godot and also realized the project had way too many fundemental design flaws that fixing it would take more effort compared to just starting from scratch

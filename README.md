@@ -4,7 +4,7 @@
 
 ### sup, i'm purplik
 i'm an indie game developer that really likes godot, maybe a bit too much.
-i've recently graduated from a an art school where i took computer game and multipedia application development classes.
+i've recently graduated from a an art school where i took computer game and multimedia application development classes.
 
 
 

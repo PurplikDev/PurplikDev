@@ -23,9 +23,14 @@ i've recently graduated from a an art school where i took computer game and mult
 - content creation - it's just a small hobby i picked up during covid, i really like sharing my experiences with other people
 - magic & alchemy - i like magic. stuff like noita's spell casting or thaumcraft's vis and essentia systems (i also like eldritch related themes and cosmic horror)
 
-
-
 ### my current projects
+- `uec` - [early in development]
+  - fps survival game
+  - currently making a prototype
+
+### on-hold projects
+why are these on hold? well, either i don't have the inspiration for them right now, other people i work with are busy, or i simply got dragged into another project
+
 - [`console game`](https://github.com/PurplikDev/console-game) - [early in development]
   - inspired by `voices of the void`
   - the game takes place entirely in a console made in godot

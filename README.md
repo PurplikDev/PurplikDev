@@ -3,7 +3,6 @@
 </p>
 
 ### sup, i'm purplik
-i'm an indie game developer that really likes godot
 in june of 2024 i've  graduated from an art school where i took computer game and multimedia application development classes and i currently work as a qa tester as my fulltime job.
 
 
@@ -18,7 +17,6 @@ in june of 2024 i've  graduated from an art school where i took computer game an
 
 ### interests
 - [`outer wilds`](https://store.steampowered.com/app/753640/Outer_Wilds/) - my most favorite game ever and i'd recommend everyone to play it
-- game dev - i love creating games
 - magic & alchemy - i like magic. stuff like noita's spell casting or thaumcraft's vis and essentia systems (i also like eldritch related themes and cosmic horror)
 
 
@@ -37,4 +35,3 @@ in june of 2024 i've  graduated from an art school where i took computer game an
 ### practise projects
 - [`dredge-like`](https://github.com/PurplikDev/dredge-like) - after playing [`dredge`](https://store.steampowered.com/app/1562430/DREDGE/) i really wanted to recreate it's water and ship
 - [`rise of todmoldren recreation`](https://github.com/PurplikDev/rise-of-todmoldren-recreation) - recreation of my first ever game in godot
-- [`tactical fps controller`](https://github.com/PurplikDev/tactical-fps-controller) - attempt at trying to create a template for tactical fps games in godot in case i needed it sometime in the future

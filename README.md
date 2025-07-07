@@ -1,17 +1,11 @@
-<p align="center">
-  <img src="https://yt3.googleusercontent.com/ppCJhbfvMMuyXUWQariyZZzci8Pj8_S-vyBs8cGm0AoqVxg3pZTwsLOaZj5x__fuER0IQ0LTczQ=w2276-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj">
-</p>
-
 ### sup, i'm purplik
 in june of 2024 i've  graduated from an art school where i took computer game and multimedia application development classes and i currently work as a qa tester as my fulltime job.
 
 
 
 ### skills
-- game development - godot, unity and unreal engine
-- java, c#, javascript, python, c++
-- video editing - adobe premiere, davinci resolve
-- graphical design - ui design, pixel art
+- game development - godot, unity
+- java, c#, python, c++
 
 
 
